@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-11T18:49:10 NZST" name="Default suite" finished-at="2022-07-11T18:49:15 NZST" duration-ms="5112">
+    <groups>
+    </groups>
+    <test started-at="2022-07-11T18:49:10 NZST" name="Default test" finished-at="2022-07-11T18:49:15 NZST" duration-ms="5112">
+      <class name="DynamicJson">
+        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:DynamicJson@71def8f8]" started-at="2022-07-11T18:49:10 NZST" name="addBook" data-provider="getBooksData" finished-at="2022-07-11T18:49:12 NZST" duration-ms="2000" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcde]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:DynamicJson@71def8f8]" started-at="2022-07-11T18:49:12 NZST" name="addBook" data-provider="getBooksData" finished-at="2022-07-11T18:49:12 NZST" duration-ms="609" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fghij]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[67890]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:DynamicJson@71def8f8]" started-at="2022-07-11T18:49:12 NZST" name="addBook" data-provider="getBooksData" finished-at="2022-07-11T18:49:13 NZST" duration-ms="613" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[klmno]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[13579]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="deleteBook(java.lang.String,java.lang.String)[pri:0, instance:DynamicJson@71def8f8]" started-at="2022-07-11T18:49:13 NZST" name="deleteBook" data-provider="getBooksData" finished-at="2022-07-11T18:49:13 NZST" duration-ms="606" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcde]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBook -->
+        <test-method signature="deleteBook(java.lang.String,java.lang.String)[pri:0, instance:DynamicJson@71def8f8]" started-at="2022-07-11T18:49:13 NZST" name="deleteBook" data-provider="getBooksData" finished-at="2022-07-11T18:49:14 NZST" duration-ms="636" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fghij]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[67890]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBook -->
+        <test-method signature="deleteBook(java.lang.String,java.lang.String)[pri:0, instance:DynamicJson@71def8f8]" started-at="2022-07-11T18:49:14 NZST" name="deleteBook" data-provider="getBooksData" finished-at="2022-07-11T18:49:15 NZST" duration-ms="604" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[klmno]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[13579]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBook -->
+      </class> <!-- DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

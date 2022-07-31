@@ -1,0 +1,23 @@
+{
+        "id": 11,
+        "name": "Datacom API Test",
+        "username": "Datacom API Test",
+        "email": "DatacomAPITest@rosamond.me",
+        "address": {
+            "street": "Elizbeth Street",
+            "suite": "Suite 729",
+            "city": "Wellington",
+            "zipcode": "45169",
+            "geo": {
+                "lat": "-14.3990",
+                "lng": "-120.7677"
+            }
+        },
+        "phone": "586.493.6943 x140",
+        "website": "Data.com",
+        "company": {
+            "name": "Data Group",
+            "catchPhrase": "Implemented secondary concept",
+            "bs": "e-enable extensible e-tailers"
+        }
+}
